@@ -15,6 +15,7 @@ You will need the following Python libraries to run the project.
 - [Babel 2.12.1](https://babel.pocoo.org/en/latest/changelog.html#version-2-12-1)
 - [imageio 2.26.0](https://pypi.org/project/imageio/2.26.0/)
 - [imageio-ffmpeg 0.4.8](https://pypi.org/project/imageio-ffmpeg/)
+- [numpy==1.24.2](https://numpy.org/devdocs/release/1.24.0-notes.html)
 - [Pillow 9.4.0](https://pypi.org/project/Pillow/)
 - [pycodestyle 2.10.0](https://pypi.org/project/pycodestyle/)
 - [tkcalendar 1.6.1](https://pypi.org/project/tkcalendar/)
@@ -25,60 +26,34 @@ You will need the following Python libraries to run the project.
 Go to the root folder and run the following command
 
 ```
-pip install -r requirements.txt
+Open the VSPython folder in your IDE.
+In the terminal type: "pip install -r requirements.txt"
 ```
-
-## Running Tests
-
-Small summary of the kind of testing that exists in this repository 
-
-### Linter
-
-Here is how you run linting test
+### How to use.
 
 ```
-Special commands so you don't feel lost in doing so 
-```
-
-### Unit Tests
-
-Here is how you run unit tests :-P 
-
-```
-Yes, more commands, this is the real deal now
-```
-
-### Integration Tests
-
-Here is how you run unit tests :-P 
+1. Run the code.
+2. If you do not have an account, click on the "Sign Up!" button. If you do have an account, skip to step 6.
+3. Choose a username and a password. (Password needs to be longer than 6 digits.)
+4. Confirm your password.
+5. Click on the "Sign Up!" button.
+6. Input your username and password into their respective entries.
+7. Choose the dates you want the game, hipothetically,  received and sent back.
+8. Click on the game you want to rent.
+9. A new window with a button will pop-up.
+10- If that is the game you want, click on the "Rent!" button.
+11- Check the text to see if the date has been set correctly.
+12- Click on the confirm button.
 
 ```
-Yes, more commands, this is the real deal now
-```
 
-### E2E Tests
 
-Here is how you run unit tests :-P 
-
-```
-Yes, more commands, this is the real deal now
-```
 
 ## How To Deploy
 
 Omg foreals, I have to do deployment notes too??? Yep...
 
 Make sure to write notes about deployment, is it just merging to master to trigger [Github Actions Pipeline](https://www.youtube.com/watch?v=eGEumlRlqHc)
-
-## Diagrams
-
-It's always nice to have some diagrams that will help show the high level design. Only do this when appplies 
-
-![Diagram](https://github.com/meroware/example-aws-services-github-worflows/blob/master/diagram.png)
-
-## Contributing
-
-Sometimes is nice to tell people to go to another documentation :-( to make sure this readme doesn't get too long. So might as well create a contribution guidline markdown file and link it here. [CONTRIBUTING.md](https://github.com/meroware) this will help you know the rules of how to contribute.
 
 ## Code Owners
 
