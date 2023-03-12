@@ -9,9 +9,9 @@
 
 ### Prerequisites
 
-Sometimes there are libs that are necessary to run the projects
+You will need the following Python libraries to run the project.
 
-- [Some lib to install](https://www.npmjs.com/)
+- [autopep8](https://pypi.org/project/autopep8/2.0.1/)
 - [Some other setup required maybe a database](https://en.wikipedia.org/wiki/Database/)
 
 ### Installing
