@@ -20,12 +20,12 @@ You will need the following Python libraries to run the project.
 - [tkcalendar 1.6.1](https://pypi.org/project/tkcalendar/)
 - [tkVideo 0.1](https://pypi.org/project/tkvideo-moviepy/)
 
-### Installing
+### Installation
 
-Installation steps are necessary so go through each step to do so 
+Go to the root folder and run the following command
 
 ```
-Commands would be good please
+pip install -r requirements.txt
 ```
 
 ## Running Tests
@@ -82,14 +82,9 @@ Sometimes is nice to tell people to go to another documentation :-( to make sure
 
 ## Code Owners
 
-* **Some dude that wants credit** - *Yep I did the whole project, no one helped. Sigh.. I'm joking it was a team effort* - [Here is my profile](https://github.com/meroware)
-
-It is best to just have a code owners setup. Checkout [Setup code owners in github repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
+[Felipe de Toledo Krainer](https://github.com/Rain-02)
 
 ## License
 
-Most like MIT License because we like open sourcing but it can be whatever license you like - Again we want to put the license in a different file to not make the readme too big [LICENSE.md](LICENSE.md)
+[MIT](LICENSE.md)
 
-## Acknowledgments
-
-* Do we need to give credit to other people or groups? May be fun to share the love here. 
