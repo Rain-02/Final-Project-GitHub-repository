@@ -11,6 +11,7 @@
 
 The program was made with [Python 3.11](https://www.python.org/downloads/)
 
+
 You will need the following Python libraries to run the project.
 
 - [autopep8 2.0.1](https://pypi.org/project/autopep8/2.0.1/)
@@ -23,7 +24,7 @@ You will need the following Python libraries to run the project.
 - [tkcalendar 1.6.1](https://pypi.org/project/tkcalendar/)
 - [tkVideo 0.1](https://pypi.org/project/tkvideo-moviepy/)
 
-### Installation
+### Installation with Visual Studio Code
 
 If you don't have the zip file, follow these steps:
 
@@ -31,14 +32,16 @@ If you don't have the zip file, follow these steps:
 git clone https://github.com/Rain-02/Final-Project-GitHub-repository.git
 cd Final-Project-GitHub-repository
 pip install -r requirements.txt
-Start.py
+code.
+
+Click on the play button.
 ```
 
-If you have the zip file, follow these steps: <br>
-Open the VSPython folder in your IDE.
+If you have the zip file, follow these steps:
 
 ```
-pip install -r requirements.txt
+Open the VSPython folder in VSCode.
+In your terminal enter: pip install -r requirements.txt
 ```
 
 
