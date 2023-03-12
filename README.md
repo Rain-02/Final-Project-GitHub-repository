@@ -11,8 +11,14 @@
 
 You will need the following Python libraries to run the project.
 
-- [autopep8](https://pypi.org/project/autopep8/2.0.1/)
-- [Some other setup required maybe a database](https://en.wikipedia.org/wiki/Database/)
+- [autopep8==2.0.1](https://pypi.org/project/autopep8/2.0.1/)
+- [Babel==2.12.1](https://babel.pocoo.org/en/latest/changelog.html#version-2-12-1)
+- [imageio==2.26.0](https://pypi.org/project/imageio/2.26.0/)
+- [imageio-ffmpeg==0.4.8](https://pypi.org/project/imageio-ffmpeg/)
+- [Pillow==9.4.0](https://pypi.org/project/Pillow/)
+- [pycodestyle==2.10.0](https://pypi.org/project/pycodestyle/)
+- [tkcalendar==1.6.1](https://pypi.org/project/tkcalendar/)
+- [tkVideo==0.1](https://pypi.org/project/tkvideo-moviepy/)
 
 ### Installing
 
