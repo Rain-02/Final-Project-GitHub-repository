@@ -11,6 +11,7 @@
 
 The program was made with [Python 3.11](https://www.python.org/downloads/)
 
+
 You will need the following Python libraries to run the project.
 
 - [autopep8 2.0.1](https://pypi.org/project/autopep8/2.0.1/)
@@ -23,14 +24,27 @@ You will need the following Python libraries to run the project.
 - [tkcalendar 1.6.1](https://pypi.org/project/tkcalendar/)
 - [tkVideo 0.1](https://pypi.org/project/tkvideo-moviepy/)
 
-### Installation
+### Installation with Visual Studio Code
 
-Go to the root folder and run the following command
+If you don't have the zip file, follow these steps:
 
 ```
-Open the VSPython folder in your IDE.
-In the terminal type: "pip install -r requirements.txt"
+git clone https://github.com/Rain-02/Final-Project-GitHub-repository.git
+cd Final-Project-GitHub-repository
+pip install -r requirements.txt
+code .
+
+Click on the play button.
 ```
+
+If you have the zip file, follow these steps:
+
+```
+Open the VSPython folder in VSCode.
+In your terminal enter: pip install -r requirements.txt
+```
+
+
 ### How to use.
 
 ```
@@ -50,12 +64,6 @@ In the terminal type: "pip install -r requirements.txt"
 ```
 
 
-
-## How To Deploy
-
-Omg foreals, I have to do deployment notes too??? Yep...
-
-Make sure to write notes about deployment, is it just merging to master to trigger [Github Actions Pipeline](https://www.youtube.com/watch?v=eGEumlRlqHc)
 
 ## Code Owners
 
