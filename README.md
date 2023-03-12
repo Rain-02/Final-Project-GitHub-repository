@@ -52,11 +52,11 @@ Click on the run python file button.
 ```
 1. Run the code.
 2. If you do not have an account, click on the "Sign Up!" button. If you do have an account, skip to step 6.
-3. Choose a username and a password. (Password needs to be longer than 6 digits.)
+3. Choose a username and a password (Password needs to be longer than 6 digits).
 4. Confirm your password.
 5. Click on the "Sign Up!" button.
 6. Input your username and password into their respective entries.
-7. Choose the dates you want the game, hipothetically,  received and sent back.
+7. Choose the dates you want the game, hypothetically,  received and sent back.
 8. Click on the game you want to rent.
 9. A new window with a button will pop-up.
 10- If that is the game you want, click on the "Rent!" button.
