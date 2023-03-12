@@ -86,5 +86,5 @@ Sometimes is nice to tell people to go to another documentation :-( to make sure
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
 
