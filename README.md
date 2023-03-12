@@ -34,7 +34,7 @@ cd Final-Project-GitHub-repository
 pip install -r requirements.txt
 code .
 
-Click on the play button.
+Click on the run python file button.
 ```
 
 If you have the zip file, follow these steps:
@@ -42,6 +42,8 @@ If you have the zip file, follow these steps:
 ```
 Open the VSPython folder in VSCode.
 In your terminal enter: pip install -r requirements.txt
+
+Click on the run python file button.
 ```
 
 
