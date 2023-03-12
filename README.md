@@ -25,12 +25,22 @@ You will need the following Python libraries to run the project.
 
 ### Installation
 
-Go to the root folder and run the following command
+If you don't have the zip file, follow these steps:
+
+```
+In your terminal use the command: "git clone https://github.com/Rain-02/Final-Project-GitHub-repository.git"
+cd Final-Project-GitHub-repository.git 
+In the terminal type: "pip install -r requirements.txt"
+```
+
+If you have the zip file, follow these steps:
 
 ```
 Open the VSPython folder in your IDE.
 In the terminal type: "pip install -r requirements.txt"
 ```
+
+
 ### How to use.
 
 ```
@@ -50,12 +60,6 @@ In the terminal type: "pip install -r requirements.txt"
 ```
 
 
-
-## How To Deploy
-
-Omg foreals, I have to do deployment notes too??? Yep...
-
-Make sure to write notes about deployment, is it just merging to master to trigger [Github Actions Pipeline](https://www.youtube.com/watch?v=eGEumlRlqHc)
 
 ## Code Owners
 
