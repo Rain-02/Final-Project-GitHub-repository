@@ -28,16 +28,16 @@ You will need the following Python libraries to run the project.
 If you don't have the zip file, follow these steps:
 
 ```
-In your terminal use the command: "git clone https://github.com/Rain-02/Final-Project-GitHub-repository.git"
+git clone https://github.com/Rain-02/Final-Project-GitHub-repository.git
 cd Final-Project-GitHub-repository.git 
-In the terminal type: "pip install -r requirements.txt"
+pip install -r requirements.txt
 ```
 
 If you have the zip file, follow these steps:
+Open the VSPython folder in your IDE.
 
 ```
-Open the VSPython folder in your IDE.
-In the terminal type: "pip install -r requirements.txt"
+pip install -r requirements.txt
 ```
 
 
