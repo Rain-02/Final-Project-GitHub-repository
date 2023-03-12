@@ -5,6 +5,10 @@ from PIL import ImageTk, Image
 from tkcalendar import *
 import datetime
 
+#This module creates a frame to cover the main window
+#  and display the main window on it.
+#  All of the game pictures are here.
+
 
 #Creating menu_window function and setting it's window properties
 def menu_window(root, username):

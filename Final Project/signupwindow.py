@@ -2,7 +2,13 @@ from tkinter import *
 from tkvideo import tkvideo
 from tkinter import messagebox
 
-#Cerating the sign up function and setting it's window properties
+#This module creates the sign up window,
+#handles the creation of new accounts 
+#and writes them on a text file used by the main file to grant access
+
+
+
+#Creating the sign up function and setting it's window properties
 def OpenSignUpWindow(root):
     SignUp_Window = Toplevel(root)
     SignUp_Window.geometry("500x600+720+250")
