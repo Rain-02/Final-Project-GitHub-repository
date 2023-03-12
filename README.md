@@ -9,6 +9,8 @@
 
 ### Prerequisites
 
+The program was made with [Python 3.11](https://www.python.org/downloads/)
+
 You will need the following Python libraries to run the project.
 
 - [autopep8 2.0.1](https://pypi.org/project/autopep8/2.0.1/)
