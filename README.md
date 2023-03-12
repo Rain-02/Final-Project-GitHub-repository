@@ -1,12 +1,11 @@
 # Play Delivery
 
-> A GUI of a game delivery app. It allow users to login or signup to their accounts, choose the dates in calendar entries and select which game they want to rent.
+> A GUI of a game delivery app. It allow user to enter their accounts, choose the dates in calendar entries and select which game they want to rent.
 
-> Something else to say about project
+> A working signup and login system.
 
 ## Getting Started
 
-Sometimes you need a longer description to discuss about the project before developers get started working on the project
 
 ### Prerequisites
 
