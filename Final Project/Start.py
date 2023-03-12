@@ -47,12 +47,11 @@ class Login:
         password_label = Label(Frame_login, text='Password', font=(
             "Arial", 10), bg='Black', fg='White').place(x=90, y=128)
 
-        # Main Menu Window Function
 
         # SKIP BUTTON FOR TESTING PURPOSES
-        skip = Button(Frame_login, text='Skip',
-                      font=(20), command=lambda: main_menu.menu_window(self.root, self.username.get()))
-        skip.place(x=90, y=340)
+        # skip = Button(Frame_login, text='Skip',
+        #               font=(20), command=lambda: main_menu.menu_window(self.root, self.username.get()))
+        # skip.place(x=90, y=340)
 
         # Creating access function
         def access():

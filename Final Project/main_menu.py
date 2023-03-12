@@ -66,7 +66,7 @@ def menu_window(root, username):
     #Creating a canvas
     my_canvas = Canvas(games_frame)
     my_canvas.pack(side=LEFT, fill=BOTH, expand=1)
-    #Creating and setting up scrollbar in the canvar
+    #Creating and setting up scrollbar in the canvas
     my_scrollbar = ttk.Scrollbar(
         games_frame, orient=VERTICAL, command=my_canvas.yview)
     my_scrollbar.pack(side=RIGHT, fill=Y)
