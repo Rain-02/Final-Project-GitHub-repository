@@ -1,9 +1,6 @@
-# Example Readme Template
+# Play Delivery
 
-Always nice to have a status badge of all your pipelines in the readme
-![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
-
-> A short description of project
+> A GUI of a game delivery app. It allow users to login or signup to their accounts, choose the dates in calendar entries and select which game they want to rent.
 
 > Something else to say about project
 
