@@ -29,11 +29,12 @@ If you don't have the zip file, follow these steps:
 
 ```
 git clone https://github.com/Rain-02/Final-Project-GitHub-repository.git
-cd Final-Project-GitHub-repository.git 
+cd Final-Project-GitHub-repository
 pip install -r requirements.txt
+Start.py
 ```
 
-If you have the zip file, follow these steps:
+If you have the zip file, follow these steps: <br>
 Open the VSPython folder in your IDE.
 
 ```
